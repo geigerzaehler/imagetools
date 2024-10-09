@@ -30,7 +30,7 @@
   },
   "scripts": {
     "dev": "rollup -cw",
-    "build": "rollup -c",
+    "prepare": "rollup -c",
     "test": "vitest run",
     "coverage": "vitest run --coverage"
   },
